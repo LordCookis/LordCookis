@@ -2,7 +2,11 @@ Front-End Web Developer
 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
+-----
+
 Активно увлекаюсь веб-разработкой, создаю разноообразные сайты и проекты
+
+-----
 
 Использую в проектах:
 
@@ -14,6 +18,8 @@ Front-End Web Developer
  [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
 
+-----
+
 Так же я имею знания:
 
  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
@@ -23,3 +29,7 @@ Front-End Web Developer
  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+
+-----
+
+Обожаю игры, аниме, котиков и Акву <З
