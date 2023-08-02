@@ -40,4 +40,4 @@ Front-End Web Developer
 
 Обожаю игры, аниме, котиков и Акву <З
 
-[![My Skills](https://i.pinimg.com/originals/6e/00/7f/6e007f532ad5df09ef3ba6ef53ea317f.jpg)]
+![My Skills](https://i.pinimg.com/originals/6e/00/7f/6e007f532ad5df09ef3ba6ef53ea317f.jpg)
