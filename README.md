@@ -1,2 +1,10 @@
-### Аква не бесполезная!
-[![My Skills](https://mobimg.b-cdn.net/v3/fetch/53/53c7c49ad1dfa7b98dd141405b51f51e.jpeg)](https://mobimg.b-cdn.net/v3/fetch/53/53c7c49ad1dfa7b98dd141405b51f51e.jpeg)
+Front-End Web Developer
+
+Использую в проектах:
+• [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+• [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+• [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+• [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+• [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+• [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
+
